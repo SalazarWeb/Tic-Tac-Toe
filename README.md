@@ -1,8 +1,20 @@
-# React + Vite
+# Tic-Tac-Toe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una implementación del juego clásico de "Tic-Tac-Toe" (también conocido como "Cruz en Raya") creado con React + Vite.
 
-Currently, two official plugins are available:
+## Descripción
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+El juego consiste en una cuadrícula de 3x3 en la que dos jugadores se turnan para marcar casillas con su símbolo "X" y "O" hasta que uno de ellos consiga alinear tres de sus símbolos en línea horizontal, vertical o diagonal.
+
+## Colaboración
+
+¡Estamos abiertos a colaboraciones en este proyecto! Si te gustaría contribuir, puedes seguir estos pasos:
+
+1. Haz un fork de este repositorio.
+2. Clona tu fork en tu máquina local.
+3. Crea una nueva rama para tu contribución.
+4. Realiza los cambios y mejoras que desees.
+5. Haz commit y push de tus cambios a tu repositorio.
+6. Abre un pull request en este repositorio para que podamos revisar tus cambios.
+
+¡Esperamos tus contribuciones!
