@@ -2,7 +2,7 @@
 
 Este proyecto es una implementación del juego clásico de "Tic-Tac-Toe" (también conocido como "Cruz en Raya") creado con React + Vite.
 
-[Sitio web del proyecto](https://tic-tac-toe-salazarweb.vercel.app/)
+[Sitio web del proyecto](https://tictactoe-salazarweb.vercel.app/)
 
 ## Descripción
 
